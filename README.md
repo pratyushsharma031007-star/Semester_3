@@ -2,6 +2,24 @@
 
 **Today's Work:**
 
+* Revised the concepts of classes and objects in Java.
+* Practiced creating classes, defining methods, and creating objects.
+* Solved Java programming problems based on classes and objects.
+
+**Next Session Plan:**
+
+* Practice more problems based on classes and objects.
+* Move on to the next OOP concept in Java.
+
+**Issues Faced:**
+
+* None
+
+
+**Date: 16-10-2026**
+
+**Today's Work:**
+
 * Studied the fundamentals of Object-Oriented Programming (OOP) in Java.
 * Learned about classes, objects, constructors, and methods.
 * Practiced basic Java programs using OOP concepts.
