@@ -2,6 +2,25 @@
 
 **Today's Work:**
 
+* Studied the fundamentals of Object-Oriented Programming (OOP) in Java.
+* Learned about classes, objects, constructors, and methods.
+* Practiced basic Java programs using OOP concepts.
+
+**Next Session Plan:**
+
+* Learn about the four pillars of OOP.
+* Practice Java programs based on classes and objects.
+
+**Issues Faced:**
+
+* None
+
+
+
+**Date: 16-10-2026**
+
+**Today's Work:**
+
 * Studied the fundamentals of programming in Java.
 * Practiced basic programs using variables, data types, operators, and input/output statements.
 * Solved simple programming problems using conditional statements and loops.
