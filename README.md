@@ -1,3 +1,22 @@
+**Date: 17-10-2026**
+
+**Today's Work:**
+
+* Studied the introduction to Object-Oriented Programming (OOP) in Java.
+* Learned about inheritance and its types.
+* Practiced polymorphism using method overloading and method overriding.
+* Solved Java programming problems based on inheritance and polymorphism.
+
+**Next Session Plan:**
+
+* Practice more problems based on inheritance and polymorphism.
+* Learn and practice the remaining OOP concepts in Java.
+
+**Issues Faced:**
+
+* None
+
+
 **Date: 16-10-2026**
 
 **Today's Work:**
