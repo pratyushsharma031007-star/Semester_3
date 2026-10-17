@@ -2,6 +2,25 @@
 
 **Today's Work:**
 
+* Studied abstraction in Java and its importance in OOP.
+* Learned about abstract classes and interfaces.
+* Understood the differences between classes and interfaces.
+* Practiced Java programs using abstraction and interfaces.
+
+**Next Session Plan:**
+
+* Practice more programming problems based on abstraction and interfaces.
+* Revise the differences between abstract classes and interfaces.
+
+**Issues Faced:**
+
+* None
+
+
+**Date: 17-10-2026**
+
+**Today's Work:**
+
 * Studied the introduction to Object-Oriented Programming (OOP) in Java.
 * Learned about inheritance and its types.
 * Practiced polymorphism using method overloading and method overriding.
