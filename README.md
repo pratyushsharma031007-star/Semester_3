@@ -2,6 +2,25 @@
 
 **Today's Work:**
 
+* Studied inner classes in Java and their types.
+* Learned about the implementation and use of inner classes.
+* Understood UML diagrams and their importance in object-oriented programming.
+* Practiced Java programs using inner classes and explored basic UML diagrams.
+
+**Next Session Plan:**
+
+* Practice more programming problems based on inner classes.
+* Revise UML diagrams and their relationships.
+
+**Issues Faced:**
+
+* None
+
+
+**Date: 17-10-2026**
+
+**Today's Work:**
+
 * Studied abstraction in Java and its importance in OOP.
 * Learned about abstract classes and interfaces.
 * Understood the differences between classes and interfaces.
