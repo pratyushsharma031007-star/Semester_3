@@ -2,6 +2,25 @@
 
 **Today's Work:**
 
+* Studied the fundamentals of Data Structures and Algorithms (DSA).
+* Learned about different types of data structures and their applications.
+* Understood basic algorithm concepts and time and space complexity.
+* Practiced basic programming problems related to DSA.
+
+**Next Session Plan:**
+
+* Learn about arrays and their operations.
+* Practice basic DSA problems and improve problem-solving skills.
+
+**Issues Faced:**
+
+* None
+
+
+**Date: 17-10-2026**
+
+**Today's Work:**
+
 * Studied inner classes in Java and their types.
 * Learned about the implementation and use of inner classes.
 * Understood UML diagrams and their importance in object-oriented programming.
